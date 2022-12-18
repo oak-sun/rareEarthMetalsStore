@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/check-metal-service/check-metal-service.iml" filepath="$PROJECT_DIR$/check-metal-service/check-metal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client-service/client-service.iml" filepath="$PROJECT_DIR$/client-service/client-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/client2-service/client2-service.iml" filepath="$PROJECT_DIR$/client2-service/client2-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/config-server/config-server.iml" filepath="$PROJECT_DIR$/config-server/config-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/creation-metal-service/creation-metal-service.iml" filepath="$PROJECT_DIR$/creation-metal-service/creation-metal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server/eureka-server.iml" filepath="$PROJECT_DIR$/eureka-server/eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metal-service/metal-service.iml" filepath="$PROJECT_DIR$/metal-service/metal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/metal-service-updater/metal-service-updater.iml" filepath="$PROJECT_DIR$/metal-service-updater/metal-service-updater.iml" />
+      <module fileurl="file://$PROJECT_DIR$/store-metal-service/store-metal-service.iml" filepath="$PROJECT_DIR$/store-metal-service/store-metal-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-service/zuul-service.iml" filepath="$PROJECT_DIR$/zuul-service/zuul-service.iml" />
+    </modules>
+  </component>
+</project>

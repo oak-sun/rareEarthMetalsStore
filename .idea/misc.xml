@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/book-service/pom.xml" />
+        <option value="$PROJECT_DIR$/config-server/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/client-service/pom.xml" />
+        <option value="$PROJECT_DIR$/check-book-service/pom.xml" />
+        <option value="$PROJECT_DIR$/store-book-service/pom.xml" />
+        <option value="$PROJECT_DIR$/book-service-updater/pom.xml" />
+        <option value="$PROJECT_DIR$/creation-book-service/pom.xml" />
+        <option value="$PROJECT_DIR$/metal-service/pom.xml" />
+        <option value="$PROJECT_DIR$/metal-service-updater/pom.xml" />
+        <option value="$PROJECT_DIR$/client2-service/pom.xml" />
+        <option value="$PROJECT_DIR$/creation-metal-service/pom.xml" />
+        <option value="$PROJECT_DIR$/check-metal-service/pom.xml" />
+        <option value="$PROJECT_DIR$/store-metal-service/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-service/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_18" default="true" project-jdk-name="liberica-18" project-jdk-type="JavaSDK" />
+</project>

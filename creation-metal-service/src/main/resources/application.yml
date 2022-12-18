@@ -1,0 +1,13 @@
+spring:
+  cloud:
+    stream:
+      kafka:
+        binder:
+          auto-add-partitions: true
+      bindings:
+        output:
+          destination: creationMetalServiceDestination
+          group: creationMetalServiceGroup
+
+server:
+  port: 8050
